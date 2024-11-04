@@ -578,5 +578,68 @@
             }
         }
 
+    }, {
+        "Name": "Mac Mini (M4)",
+        "Type": "MacMini",
+        "image": "Macmini_2020-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2024",
+                "Discontinued": "---",
+                "Model Identifier": "Pending"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4",
+                "Processor Speed": "4.51 GHz (high-performance) or Pending GHz (high-efficiency)",
+                "Number of Cores": "10 (6 high-performance, 4 high-efficiency)"
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.x (Sequoia)",
+                "Maximum OS": "Latest Release of macOS"
+            },
+            "Memory": {
+                "Memory": "16 GB, 24 GB, 32 GB",
+                "Maximum Memory": "32 GB",
+                "Supported RAM": "8533 MT/s LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "10",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            }
+
+    }, {
+        "Name": "Mac Mini (M4 Pro)",
+        "Type": "MacMini",
+        "image": "Macmini_2020-23.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2024",
+                "Discontinued": "---",
+                "Model Identifier": "Pending"
+            },
+            "Processor": {
+                "Processor Name": "Apple M4 Pro",
+                "Processor Speed": "4.6 GHz (high-performance) or Pending GHz (high-efficiency)",
+                "Number of Cores": "12 (8 high-performance, 4 high-efficiency), 14 (10 high-performance, 4 high-efficiency) or 16 (12 high-performance, 4 high-efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.x (Sequoia)",
+                "Maximum OS": "Latest Release of macOS"
+            },
+            "Memory": {
+                "Memory": "24GB, 48GB, 64GB",
+                "Maximum Memory": "64 GB",
+                "Supported RAM": "8533 MT/s LPDDR5X"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "16, 20",
+                "Graphics Memory": "Shared through UMA (Unified Memory Architecture)"
+            }
+        }
+    
     }
 ]
