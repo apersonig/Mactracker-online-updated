@@ -1495,5 +1495,89 @@
                 "Ethernet": "1 - RJ45 on Power Adapter"
             }
         }
+         }, {
+        "Name": "iMac (24-inch, M4, 2023)<br>(2-Ports)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2024",
+                "Discontinued": "Present",
+                "Model Identifier": "Pending",
+                "# of USB-C-Ports": "2"
+            },
+            "Processor": {
+                "Name": "Apple M4",
+                "Speed": "4.51 GHz (high performance) and Pending GHz (high efficiency)",
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.x (Sequoia)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Configurations": "16, 24 GB",
+                "Maximum": "24 GB",
+                "Supported": "8533 MT/s LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Memory": "shared through UMA (Unified Memory Architecture)",
+                "# of Cores": "8"
+            },
+            "Display": {
+                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            },
+            "Connectivity": {
+                "Wi-Fi": "802.11ax (6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "Optional"
+            }
+        }
+         }, {
+        "Name": "iMac (24-inch, M4, 2023)<br>(4-Ports)",
+        "Type": "iMac",
+        "image": "imac_24inch.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Oct 2024",
+                "Discontinued": "Present",
+                "Model Identifier": "Pending",
+                "# of USB-C-Ports": "4"
+            },
+            "Processor": {
+                "Name": "Apple M4",
+                "Speed": "4.4 GHz (high performance) and Pending GHz (high efficiency)",
+                "# of Cores": "8 (4 high performance and 4 high efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "macOS 15.x (Sequoia)",
+                "Maximum OS": "Latest release of macOS"
+            },
+            "Memory": {
+                "Configurations": "16, 24 GB, 32 GB",
+                "Maximum": "32 GB",
+                "Supported": "8533 MT/s LPDDR5X"
+            },
+            "Graphics": {
+                "Chip": "Apple GPU",
+                "Memory": "shared through UMA (Unified Memory Architecture)",
+                "# of Cores": "10"
+            },
+            "Display": {
+                "Type": "24-inch (diagonal) Retina 4.5K display",
+                "Aspect Ratio": "16:10",
+                "Native Resolution": "4480 x 2520"
+            },
+            "Connectivity": {
+                "Wi-Fi": "802.11ax (6E)",
+                "Bluetooth": "5.3",
+                "Ethernet": "1 - RJ45 on Power Adapter"
+            }
+        }
     }
 ]
