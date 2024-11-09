@@ -2248,5 +2248,209 @@
                 "Connector": "USB-C (3)"
             }
         }
+    },
+    {
+        "Name": "iPhone 16",
+        "Type": "iPhone",
+        "image": "iphone-16.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2024",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone17,3"
+            },
+            "Processor": {
+                "Processor Name": "Apple A18",
+                "Processor Speed": "4.04 GHz",
+                "Benchmark (SC / MC)": "3269 / 8013",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.1-inch widescreen",
+                "Display Resolution": "1179 x 2556",
+                "Display Refresh Rate": "60hz"
+            },
+            "Storage": {
+                "Capacity": "128Gb, 256Gb, 512Gb"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3561 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island, Camera Control",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 16 Plus",
+        "Type": "iPhone",
+        "image": "iphone-16.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2024",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone17,4"
+            },
+            "Processor": {
+                "Processor Name": "Apple A18",
+                "Processor Speed": "4.04 GHz",
+                "Benchmark (SC / MC)": "3278 / 8024",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "5"
+            },
+            "Display": {
+                "Display Type": "Super Retina XDR OLED Display",
+                "Display Size": "6.7-inch widescreen",
+                "Display Resolution": "1290 x 2796",
+                "Display Refresh Rate": "60hz"
+            },
+            "Storage": {
+                "Capacity": "128Gb, 256Gb, 512Gb"
+            },
+            "Camera": {
+                "Rear Camera": "2 - 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4674 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island, Camera Control",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 16 Pro",
+        "Type": "iPhone",
+        "image": "iphone-16.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2024",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone17,1"
+            },
+            "Processor": {
+                "Processor Name": "Apple A18 Pro",
+                "Processor Speed": "4.05 GHz",
+                "Benchmark (SC / MC)": "3407 / 8417",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "LTPO Super Retina XDR OLED Display",
+                "Display Size": "6.3-inch widescreen",
+                "Display Resolution": "1206 x 2622",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "128Gb, 256Gb, 512Gb, 1Tb"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "3582 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island, Camera Control",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
+            }
+        }
+    },
+    {
+        "Name": "iPhone 16 Pro Max",
+        "Type": "iPhone",
+        "image": "iphone-16.png",
+        "Info": {
+            "Overview": {
+                "Introduced": "Sep 2024",
+                "Discontinued": "---",
+                "Model Identifier": "iPhone17,2"
+            },
+            "Processor": {
+                "Processor Name": "Apple A18 Pro",
+                "Processor Speed": "4.05 GHz",
+                "Benchmark (SC / MC)": "3395 / 8362",
+                "Number of Cores": "6 (2 High Performance, 4 High Efficiency)",
+                "Manufacturing Process": "3 nm"
+            },
+            "Software": {
+                "Original OS": "iOS 18",
+                "Maximum OS": "Latest release of iOS"
+            },
+            "Memory": {
+                "Built-in Memory": "8 GB LPDDR5"
+            },
+            "Graphics": {
+                "Graphics Chip": "Apple GPU",
+                "Graphics Cores": "6"
+            },
+            "Display": {
+                "Display Type": "LTPO Super Retina XDR OLED Display",
+                "Display Size": "6.9-inch widescreen",
+                "Display Resolution": "1320 x 2868",
+                "Display Refresh Rate": "10 - 120 Hz ProMotion or 1 Hz Always-On"
+            },
+            "Storage": {
+                "Capacity": "128Gb, 256Gb, 512Gb, 1Tb"
+            },
+            "Camera": {
+                "Rear Camera": "3 - 48 / 48 / 12 MP",
+                "Front Camera": "1 - 12 MP"
+            },
+            "Battery": {
+                "Capacity": "4685 mAh"
+            },
+            "Features": {
+                "Specials": "Dynamic Island, Camera Control",
+                "Authentication": "Face ID",
+                "Connector": "USB-C (3)"
+            }
+        }
     }
 ]
