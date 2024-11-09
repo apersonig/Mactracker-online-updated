@@ -2303,7 +2303,7 @@
     {
         "Name": "iPhone 16 Plus",
         "Type": "iPhone",
-        "image": "iphone-16.png",
+        "image": "iphone-16-plus.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
@@ -2354,7 +2354,7 @@
     {
         "Name": "iPhone 16 Pro",
         "Type": "iPhone",
-        "image": "iphone-16.png",
+        "image": "iphone-16-pro.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
@@ -2405,7 +2405,7 @@
     {
         "Name": "iPhone 16 Pro Max",
         "Type": "iPhone",
-        "image": "iphone-16.png",
+        "image": "iphone-16-pro-max.png",
         "Info": {
             "Overview": {
                 "Introduced": "Sep 2024",
