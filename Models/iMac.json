@@ -1503,12 +1503,12 @@
             "Overview": {
                 "Introduced": "Oct 2024",
                 "Discontinued": "Present",
-                "Model Identifier": "Pending",
+                "Model Identifier": "iMac16,2",
                 "# of USB-C-Ports": "2"
             },
             "Processor": {
                 "Name": "Apple M4",
-                "Speed": "4.51 GHz (high performance) and Pending GHz (high efficiency)",
+                "Speed": "4.51 GHz (high performance) and 2.89 GHz (high efficiency)",
                 "# of Cores": "8 (4 high performance and 4 high efficiency)",
                 "Manufacturing Process": "3 nm"
             },
@@ -1545,12 +1545,12 @@
             "Overview": {
                 "Introduced": "Oct 2024",
                 "Discontinued": "Present",
-                "Model Identifier": "Pending",
+                "Model Identifier": "iMac16,3",
                 "# of USB-C-Ports": "4"
             },
             "Processor": {
                 "Name": "Apple M4",
-                "Speed": "4.4 GHz (high performance) and Pending GHz (high efficiency)",
+                "Speed": "4.51 GHz (high performance) and 2.89 GHz (high efficiency)",
                 "# of Cores": "8 (4 high performance and 4 high efficiency)",
                 "Manufacturing Process": "3 nm"
             },
