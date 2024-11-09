@@ -586,11 +586,11 @@
             "Overview": {
                 "Introduced": "Oct 2024",
                 "Discontinued": "---",
-                "Model Identifier": "Pending"
+                "Model Identifier": "Mac16,10"
             },
             "Processor": {
                 "Processor Name": "Apple M4",
-                "Processor Speed": "4.51 GHz (high-performance) or Pending GHz (high-efficiency)",
+                "Processor Speed": "4.51 GHz (high-performance) or 2.89 GHz (high-efficiency)",
                 "Number of Cores": "10 (6 high-performance, 4 high-efficiency)"
                 "Manufacturing Process": "3 nm"
             },
@@ -617,11 +617,11 @@
             "Overview": {
                 "Introduced": "Oct 2024",
                 "Discontinued": "---",
-                "Model Identifier": "Pending"
+                "Model Identifier": "Mac16,11"
             },
             "Processor": {
                 "Processor Name": "Apple M4 Pro",
-                "Processor Speed": "4.6 GHz (high-performance) or Pending GHz (high-efficiency)",
+                "Processor Speed": "4.6 GHz (high-performance) or 2.89 (high-efficiency)",
                 "Number of Cores": "12 (8 high-performance, 4 high-efficiency), 14 (10 high-performance, 4 high-efficiency) or 16 (12 high-performance, 4 high-efficiency)",
                 "Manufacturing Process": "3 nm"
             },
